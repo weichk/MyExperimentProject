@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/HTMLParser-2.0-SNAPSHOT/lib/filterbuilder.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/HTMLParser-2.0-SNAPSHOT/lib/htmllexer.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/HTMLParser-2.0-SNAPSHOT/lib/htmlparser.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/HTMLParser-2.0-SNAPSHOT/lib/sitecapturer.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/HTMLParser-2.0-SNAPSHOT/lib/thumbelina.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/jar/commons-httpclient-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/jar/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/jar/httpcore.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/jar/servlet-api.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/openfire_plugin_src/lib/commons-fileupload-1.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/openfire_plugin_src/lib/json.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/openfire_plugin_src/lib/mysql.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/openfire_plugin_src/lib/thumbnailator-0.4.8.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/openfire_plugin_src/lib/commons-codec-1.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

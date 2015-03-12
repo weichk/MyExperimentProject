@@ -1,0 +1,23 @@
+{
+	"message": "鑾峰彇鎻忚堪鍒楄〃鎴愬姛锛?",
+	"result": 
+	[
+		{
+			"creationDate": "2015-03-11 09:26:46.000",
+			"sendExplain": "绗竴娆″鍏ユ弿杩?",
+			"creationBy": "weichk",
+			"dataMetaImportLogId": "65",
+			"modificationDate": "2015-03-11 09:26:46.000"
+		},
+
+		{
+			"creationDate": "2015-03-11 09:29:38.000",
+			"sendExplain": "绗簩娆″鍏ュ伐璧勬潯",
+			"creationBy": "weichk",
+			"dataMetaImportLogId": "66",
+			"modificationDate": "2015-03-11 09:29:38.000"
+		}
+	],
+
+	"isSuccess": "true"
+}

@@ -1,0 +1,45 @@
+{
+	"result": 
+	[
+		{
+			"modificationBy": "wck",
+			"creationDate": "2014-09-22 16:14:32.000",
+			"creationBy": "wck",
+			"infoTypeId": 1,
+			"displayOrder": 1,
+			"infoTypeName": "production",
+			"organizationId": 1,
+			"modificationDate": "2014-09-22 16:14:32.000",
+			"isEnabled": 1,
+			"clientId": "1"
+		},
+
+		{
+			"modificationBy": "wck",
+			"creationDate": "2014-09-22 16:14:44.000",
+			"creationBy": "wck",
+			"infoTypeId": 2,
+			"displayOrder": 1,
+			"infoTypeName": "competition",
+			"organizationId": 1,
+			"modificationDate": "2014-09-22 16:14:44.000",
+			"isEnabled": 1,
+			"clientId": "2"
+		},
+
+		{
+			"modificationBy": "wck",
+			"creationDate": "2014-09-22 16:15:21.000",
+			"creationBy": "wck",
+			"infoTypeId": 3,
+			"displayOrder": 1,
+			"infoTypeName": "other",
+			"organizationId": 1,
+			"modificationDate": "2014-09-22 16:15:21.000",
+			"isEnabled": 1,
+			"clientId": "3"
+		}
+	],
+
+	"isSuccess": "true"
+}
